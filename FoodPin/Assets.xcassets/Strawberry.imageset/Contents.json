@@ -1,23 +1,21 @@
 {
   "images" : [
     {
+      "filename" : "pngtree-cute-summer-fruit-strawberry-png-image_4542370-2.jpg",
       "idiom" : "universal",
-      "filename" : "bourkestreetbakery.jpg",
       "scale" : "1x"
     },
     {
       "idiom" : "universal",
-      "filename" : "bourkestreetbakery@2x.jpg",
       "scale" : "2x"
     },
     {
       "idiom" : "universal",
-      "filename" : "bourkestreetbakery@3x.jpg",
       "scale" : "3x"
     }
   ],
   "info" : {
-    "version" : 1,
-    "author" : "xcode"
+    "author" : "xcode",
+    "version" : 1
   }
 }

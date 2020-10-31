@@ -1,23 +1,21 @@
 {
   "images" : [
     {
+      "filename" : "pngtree-apple-lovely-cute-apple-cartoon-png-image_482351 下午2.40.05.jpg",
       "idiom" : "universal",
-      "filename" : "barrafina.jpg",
       "scale" : "1x"
     },
     {
       "idiom" : "universal",
-      "filename" : "barrafina@2x.jpg",
       "scale" : "2x"
     },
     {
       "idiom" : "universal",
-      "filename" : "barrafina@3x.jpg",
       "scale" : "3x"
     }
   ],
   "info" : {
-    "version" : 1,
-    "author" : "xcode"
+    "author" : "xcode",
+    "version" : 1
   }
 }
